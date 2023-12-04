@@ -75984,7 +75984,7 @@ $S:31}
 A.DC.prototype={
 F(a){var s=null,r=A.aE(a).p3,q=r.z,p=q==null?s:q.ck(B.d4)
 q=t.p
-return new A.yr(A.a5R(s,B.zW,A.lc(A.aph(A.hG(A.a([A.dN("I'm currently a SSr Advanced Flutter developer at Globant (Colombia).\nI started working with Flutter when I joined the company as a Trainee, I fell in love with Flutter versatility across platforms.\nI love sharing what I've learned, which is why I have become a mentor for many other Globant trainees in Flutter,\nand participated as a Speaker at Flutter Conf LATAM.",s,s,p,B.b8),B.Jt,A.dN("Thanks for visiting my site and feel free to",s,s,p,B.b8),A.dN("Reach Out!",s,s,r.b,B.b8),B.Ju,new A.Lv(A.a([new A.ml(B.By,new A.UQ(),s),new A.ml(B.Bw,new A.UR(),s),new A.ml(B.Bv,new A.US(),s),new A.ml(B.Bx,new A.UT(),s)],q),s)],q),B.a8,B.bE,B.ar),B.AQ),s,s),s),s)}}
+return new A.yr(A.a5R(s,B.zW,A.lc(A.aph(A.hG(A.a([A.dN("I'm currently a Senior Flutter developer at Globant (Colombia).\nI started working with Flutter when I joined the company as a Trainee, I fell in love with Flutter versatility across platforms.\nI love sharing what I've learned, which is why I have become a mentor for many other Globant trainees in Flutter,\nand participated as a Speaker at Flutter Conf LATAM.",s,s,p,B.b8),B.Jt,A.dN("Thanks for visiting my site and feel free to",s,s,p,B.b8),A.dN("Reach Out!",s,s,r.b,B.b8),B.Ju,new A.Lv(A.a([new A.ml(B.By,new A.UQ(),s),new A.ml(B.Bw,new A.UR(),s),new A.ml(B.Bv,new A.US(),s),new A.ml(B.Bx,new A.UT(),s)],q),s)],q),B.a8,B.bE,B.ar),B.AQ),s,s),s),s)}}
 A.UQ.prototype={
 $0(){var s=window
 s.toString
